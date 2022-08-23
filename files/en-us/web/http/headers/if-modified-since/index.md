@@ -86,3 +86,4 @@ If-Modified-Since: Wed, 21 Oct 2015 07:28:00 GMT
 - {{HTTPHeader("If-Match")}}
 - {{HTTPHeader("If-None-Match")}}
 - {{HTTPStatus("304", "304 Not Modified")}}
+- [RFC-1123 Date and Time Specification extension to RFC-822](https://datatracker.ietf.org/doc/html/rfc1123#section-5.2.14)
